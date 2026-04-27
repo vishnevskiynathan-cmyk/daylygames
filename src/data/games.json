@@ -1,0 +1,47 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "category": "Puzzle",
+    "thumbnail": "https://play-lh.googleusercontent.com/8-i99z8OOkxV385-r3X1C8S0q9-l9C8OOkxV385-r3X1C8S0q9-l9C8OOkxV385-r3",
+    "url": "https://play2048.co/",
+    "author": "Gabriele Cirulli"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "An addictive puzzle game inspired by Tetris.",
+    "category": "Arcade",
+    "thumbnail": "https://hextris.io/images/og_image.png",
+    "url": "https://hextris.io/",
+    "author": "Hextris Team"
+  },
+  {
+    "id": "chroma-check",
+    "title": "Chroma Check",
+    "description": "A minimal color matching game.",
+    "category": "Puzzle",
+    "thumbnail": "https://img.gamedistribution.com/7161b9704778465cb32569766946091e-512x512.jpeg",
+    "url": "https://html5.gamedistribution.com/7161b9704778465cb32569766946091e/",
+    "author": "GD"
+  },
+  {
+    "id": "tetris-classic",
+    "title": "Tetris Classic",
+    "description": "The world-famous block-stacking puzzle game.",
+    "category": "Puzzle",
+    "thumbnail": "https://tetris.com/img/tetris-logo.png",
+    "url": "https://tetris.com/play-tetris",
+    "author": "Tetris Holding"
+  },
+  {
+    "id": "snake-io",
+    "title": "Snake.io",
+    "description": "Slither through the arena and grow as long as possible.",
+    "category": "Action",
+    "thumbnail": "https://play-lh.googleusercontent.com/6Xy1a_jVfC_lV_qW3_4j7N-u_zV_qW3_4j7N-u_zV_qW3_4j7N-u_zV_1",
+    "url": "https://snake.io/",
+    "author": "Kooapps"
+  }
+]
