@@ -13,18 +13,8 @@ import {
 } from 'lucide-react';
 import gamesData from './data/games.json';
 
-interface Game {
-  id: string;
-  title: string;
-  description: string;
-  category: string;
-  thumbnail: string;
-  url: string;
-  author: string;
-}
-
 export default function App() {
-  const [selectedGame, setSelectedGame] = useState<Game | null>(null);
+  const [selectedGame, setSelectedGame] = useState(null);
   const [searchQuery, setSearchQuery] = useState('');
   const [activeCategory, setActiveCategory] = useState('All');
 
